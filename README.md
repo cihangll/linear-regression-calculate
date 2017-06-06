@@ -1,5 +1,14 @@
 # linear-regression-calculate
-Linear Regression Calculator
+Linear Regression hesaplamasını yapar.2 farklı hesaplama mevcut.İlki google chart tarafından **trendlines** algoritması ile otomatik hesaplama, ikincisi ise projede bulunan **dimension yaklaşımı** ile hesaplama.
+
+## Kullanılanlar
+- Spring MVC
+- Google Chart
+- Ajax
+- Json
+
+## Projedeki Eksiklikler
+Projede eksiklik bulunmamakta.Sadece spring mvc konusunda çok fazla bilgim olmadığı için mvc yapısında hatalar olabilir. 
 
 ## *Ekran Görüntüsü*
 
